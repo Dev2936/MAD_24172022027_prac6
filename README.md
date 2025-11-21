@@ -1,4 +1,4 @@
-# MAD_24172012060_Practical-6: Android Animation Demo App
+# MAD_24172022027_Practical-6: Android Animation Demo App
 
 A simple Android application demonstrating various animation techniques including frame animations, view animations, and splash screen functionality.
 
